@@ -4,4 +4,4 @@
 #### Run the Monte Carlo script
 Make sure to use Python 3.x!
 
-`python3 monte_carlo.py --model_sheet 'model' --output_cell 'A17' --variables_sheet 'risk_variables'`
+`python3 src/monte_carlo.py --model_sheet 'model' --output_cell 'A17' --variables_sheet 'risk_variables'`
